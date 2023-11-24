@@ -1,6 +1,6 @@
 def my_superfunction():
-    print('What an awesome print!')
-    print(111)
+    print('Kokakolia')
+    print(222)
 
 
 def main():
